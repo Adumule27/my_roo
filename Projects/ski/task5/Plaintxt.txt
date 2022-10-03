@@ -1,0 +1,1 @@
+Most of the encryption modes require an initial vector
